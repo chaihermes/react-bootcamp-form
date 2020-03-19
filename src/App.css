@@ -39,10 +39,18 @@
 
 .title{
   color: darkblue;
+  padding: 8px;
 }
 
 .formInput{
   padding: 10px;
+}
+
+.label-input{
+  font-size: 15px;
+  margin-right: 12px;
+  margin-bottom: 4px;
+  display: block;
 }
 
 .submitButton{
@@ -50,4 +58,5 @@
   background-color: blue;
   color: white;
   border: none;
+  margin-top: 10px;
 }
